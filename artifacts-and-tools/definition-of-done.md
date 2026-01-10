@@ -1,10 +1,5 @@
 
----
-
-## 📄 3. `artifacts-and-tools/definition-of-done.md`
-
-```md
-# Definition of Done (Workday Agile)
+# 📄Definition of Done (Workday Agile) 
 
 ## Purpose
 The Definition of Done (DoD) establishes a **shared quality standard** for Workday deliverables, ensuring work is complete, testable, secure, and supportable.
