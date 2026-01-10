@@ -36,6 +36,20 @@ This framework ensures value is delivered **without compromising system stabilit
 
 ## Environments & Promotion Path
 
-```text
+```
 Sandbox → Implementation → Testing → Production
+```
+
+<ins> Definition Environment Usage</ins>
+
+**Sandbox**: Exploration, spike work, early validation
+
+**Implementation**: Build and configuration
+
+**Testing**: Regression, UAT, integration testing
+
+**Production**: Approved, scheduled releases only
+
+Tenant refresh timing MUST be factored into release planning.
+
 
