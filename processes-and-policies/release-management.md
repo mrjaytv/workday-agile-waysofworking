@@ -27,7 +27,7 @@ This framework ensures value is delivered **without compromising system stabilit
 
 ## Release Lifecycle
 
-![Release Lifecycle](IMG)
+![This is an image](https://github.com/mrjaytv/workday-agile-waysofworking/blob/3543d1ef08694c02062c128b18a45777612ed646/artifacts-and-tools/Release%20Lifcycle%20Details.jpg) 
 
 ---
 
